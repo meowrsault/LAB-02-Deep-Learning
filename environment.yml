@@ -1,0 +1,13 @@
+name: lab_pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - jupyter
+      - matplotlib
+      - numpy
+      - pandas
+      - pyreadstat
+      - scikit-learn
+      - torch
+

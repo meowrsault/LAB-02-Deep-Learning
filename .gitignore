@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Dataset real y resultados generados
+dataset/*.csv
+dataset/*.sav
+dataset/*.xlsx
+dataset/*.xls
+outputs/
